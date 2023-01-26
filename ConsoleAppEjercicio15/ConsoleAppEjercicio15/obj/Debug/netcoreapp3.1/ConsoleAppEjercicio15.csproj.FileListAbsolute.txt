@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 2 Algoritmos Lineales\ConsoleAppEjercicio15\ConsoleAppEjercicio15\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio15.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 2 Algoritmos Lineales\ConsoleAppEjercicio15\ConsoleAppEjercicio15\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 2 Algoritmos Lineales\ConsoleAppEjercicio15\ConsoleAppEjercicio15\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio15.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 2 Algoritmos Lineales\ConsoleAppEjercicio15\ConsoleAppEjercicio15\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio15.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 2 Algoritmos Lineales\ConsoleAppEjercicio15\ConsoleAppEjercicio15\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio15.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 2 Algoritmos Lineales\ConsoleAppEjercicio15\ConsoleAppEjercicio15\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio15.exe
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 2 Algoritmos Lineales\ConsoleAppEjercicio15\ConsoleAppEjercicio15\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio15.deps.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 2 Algoritmos Lineales\ConsoleAppEjercicio15\ConsoleAppEjercicio15\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio15.runtimeconfig.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 2 Algoritmos Lineales\ConsoleAppEjercicio15\ConsoleAppEjercicio15\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio15.runtimeconfig.dev.json
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 2 Algoritmos Lineales\ConsoleAppEjercicio15\ConsoleAppEjercicio15\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio15.dll
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 2 Algoritmos Lineales\ConsoleAppEjercicio15\ConsoleAppEjercicio15\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio15.pdb
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 2 Algoritmos Lineales\ConsoleAppEjercicio15\ConsoleAppEjercicio15\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio15.dll
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 2 Algoritmos Lineales\ConsoleAppEjercicio15\ConsoleAppEjercicio15\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio15.pdb
+C:\Users\diego\OneDrive\Escritorio\aplicaciones de consola C#\Ejercicio 2 Algoritmos Lineales\ConsoleAppEjercicio15\ConsoleAppEjercicio15\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio15.genruntimeconfig.cache

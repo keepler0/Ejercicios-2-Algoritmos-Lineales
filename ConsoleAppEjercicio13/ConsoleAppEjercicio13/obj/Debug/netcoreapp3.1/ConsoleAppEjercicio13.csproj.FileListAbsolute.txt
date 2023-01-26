@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\ConsoleAppEjercicio13\ConsoleAppEjercicio13\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio13.exe
+C:\Users\diego\source\repos\ConsoleAppEjercicio13\ConsoleAppEjercicio13\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio13.deps.json
+C:\Users\diego\source\repos\ConsoleAppEjercicio13\ConsoleAppEjercicio13\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio13.runtimeconfig.json
+C:\Users\diego\source\repos\ConsoleAppEjercicio13\ConsoleAppEjercicio13\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio13.runtimeconfig.dev.json
+C:\Users\diego\source\repos\ConsoleAppEjercicio13\ConsoleAppEjercicio13\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio13.dll
+C:\Users\diego\source\repos\ConsoleAppEjercicio13\ConsoleAppEjercicio13\bin\Debug\netcoreapp3.1\ConsoleAppEjercicio13.pdb
+C:\Users\diego\source\repos\ConsoleAppEjercicio13\ConsoleAppEjercicio13\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio13.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\ConsoleAppEjercicio13\ConsoleAppEjercicio13\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\ConsoleAppEjercicio13\ConsoleAppEjercicio13\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio13.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\ConsoleAppEjercicio13\ConsoleAppEjercicio13\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio13.AssemblyInfo.cs
+C:\Users\diego\source\repos\ConsoleAppEjercicio13\ConsoleAppEjercicio13\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio13.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\ConsoleAppEjercicio13\ConsoleAppEjercicio13\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio13.dll
+C:\Users\diego\source\repos\ConsoleAppEjercicio13\ConsoleAppEjercicio13\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio13.pdb
+C:\Users\diego\source\repos\ConsoleAppEjercicio13\ConsoleAppEjercicio13\obj\Debug\netcoreapp3.1\ConsoleAppEjercicio13.genruntimeconfig.cache
